@@ -2,7 +2,7 @@
   {
     "name": "Fentech Carrefour",
     "url": "https://carrefour.prod.clairvoyant.fentech.ai",
-    "icon": "https://icons.duckduckgo.com/ip3/carrefour.prod.clairvoyant.fentech.ai.ico",
+    "icon": "https://carrefour.prod.clairvoyant.fentech.ai/img/logo.svg",
     "slug": "fentech-carrefour",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 669,
-    "timeDay": 669,
-    "timeWeek": 669,
-    "timeMonth": 669,
-    "timeYear": 669,
+    "time": 588,
+    "timeDay": 588,
+    "timeWeek": 588,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {}
   }
 ]
