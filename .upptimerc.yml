@@ -10,3 +10,12 @@ sites:
 status-website: # Status website (optional)
   baseUrl: /upptime-fentech
   name: https://aissi17.github.io/upptime-fentech/
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/60 * * * *"
