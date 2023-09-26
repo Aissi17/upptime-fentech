@@ -5,6 +5,7 @@ repo: upptime-fentech # The name of this repository
 sites:
   - name: Fentech Carrefour
     url: https://carrefour.prod.clairvoyant.fentech.ai
+    icon : https://carrefour.prod.clairvoyant.fentech.ai/img/logo.svg
 
 status-website: # Status website (optional)
   baseUrl: /upptime-fentech
